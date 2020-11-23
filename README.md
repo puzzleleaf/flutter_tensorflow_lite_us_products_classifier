@@ -6,6 +6,10 @@ This model is trained to recognize more than 100,000 popular supermarket product
  <img src="readme/example.gif" width='1024'/>
 </p>
 
+## TFLite Package Initial setup
+To use the tflite model, follow the guide on the page below.    
+- https://pub.dev/packages/tflite_flutter#important-initial-setup
+
 ## Youtube
 [Flutter Populer US Products Classifier - Speed Code](https://youtu.be/H3cLRwr1vlM)
 <p align="center">
